@@ -21,10 +21,10 @@ After several years in other fields of software, I decided to pursue a career in
 
 ## ☎️ Connect With Me
 
-LinkedIn: [alan-alban](https://linkedin.com/in/alan-alban)
-Facebook: [alan-alban](https://facebook.com/alan-alban)
-Instagram: [alandoingthings](https://instagram.com/alandoingthings)
-Personal Site: [alan-alban.com](https://alan-alban.com)
+- LinkedIn: [alan-alban](https://linkedin.com/in/alan-alban)
+- Facebook: [alan-alban](https://facebook.com/alan-alban)
+- Instagram: [alandoingthings](https://instagram.com/alandoingthings)
+- Personal Portfolio Site: [alan-alban.com](https://alan-alban.com)
 
 <!--
 **aalban3/aalban3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
