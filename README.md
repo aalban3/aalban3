@@ -19,10 +19,11 @@ After several years in other fields of software, I decided to pursue a career in
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aalban3&repo=social-network-graph)](https://github.com/aalban3/social-network-graph)
 
-## ☎️ Connect
+## ☎️ Connect With Me
 
 LinkedIn: [alan-alban](https://linkedin.com/in/alan-alban)
 Facebook: [alan-alban](https://facebook.com/alan-alban)
+Instagram: [alandoingthings](https://instagram.com/alandoingthings)
 Personal Site: [alan-alban.com](https://alan-alban.com)
 
 <!--
