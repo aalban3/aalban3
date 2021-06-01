@@ -17,7 +17,7 @@ Visit the repo for Usage instructions: [Jade Finance](https://github.com/FSA-Tea
 
 <img src="https://drive.google.com/uc?export=view&id=1qpp9PGn7bdDzckFkBExXlkWtocDYCyN0" width='600px'/>
 
-<img src="https://drive.google.com/uc?export=view&id=1bHqHhwDkA2yzF2ndqicYpTV2iSXFAI-F" width='1500px'/>
+<img src="https://drive.google.com/uc?export=view&id=1bHqHhwDkA2yzF2ndqicYpTV2iSXFAI-F" width='150px'/>
 
 ##  🧑🏻‍💻 Current work
 - Social Grapher
