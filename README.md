@@ -15,6 +15,8 @@ Jade Finance - a project I worked on with 3 others FullStack Academy colleagues.
 
 <img src="https://drive.google.com/uc?export=view&id=1qpp9PGn7bdDzckFkBExXlkWtocDYCyN0" width='600px'/>
 
+<img src="https://drive.google.com/uc?export=view&id=1bHqHhwDkA2yzF2ndqicYpTV2iSXFAI-F" width='300px'/>
+
 ##  🧑🏻‍💻 Current work
 - Social Grapher
   - Currently working on implementing Login/SignUp
