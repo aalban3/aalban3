@@ -10,6 +10,10 @@ After several years in other fields of software, I decided to pursue a career in
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aalban3&langs_count=8)
 
+## 📱 I have an app on the App store!
+Jade Finance - a project I worked on with 3 others FullStack Academy colleagues. Jade is a personal finance app with a fun social media component. 
+<img src="https://drive.google.com/uc?export=view&id=1qpp9PGn7bdDzckFkBExXlkWtocDYCyN0" />
+
 ##  🧑🏻‍💻 Current work
 - Social Grapher
   - Currently working on implementing Login/SignUp
