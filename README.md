@@ -10,7 +10,7 @@ After several years in other fields of software, I decided to pursue a career in
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aalban3&langs_count=8)
 
-##  🧑🏻‍💻 Recent work
+##  🧑🏻‍💻 Current work
 - Social Grapher
   - Currently working on implementing Login/SignUp
   - Web Sockets so people can interact 
