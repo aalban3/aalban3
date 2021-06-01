@@ -1,4 +1,4 @@
-<img alt="Javascript" src="https://img.shields.io/badge/-Javascript-yellow?style=for-the-badge&logo=javascript"/>
+<img alt="Javascript" src="https://img.shields.io/badge/-Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white"/><img alt="Javascript" src="https://img.shields.io/badge/-Python-informational?style=for-the-badge&logo=python&logoColor=white"/>
 ### Hello, world 👋
 
 
