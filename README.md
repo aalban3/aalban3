@@ -12,7 +12,8 @@ After several years in other fields of software, I decided to pursue a career in
 
 ## 📱 I have an app on the App store!
 Jade Finance - a project I worked on with 3 others FullStack Academy colleagues. Jade is a personal finance app with a fun social media component. 
-<img src="https://drive.google.com/uc?export=view&id=1qpp9PGn7bdDzckFkBExXlkWtocDYCyN0" width='200px'/>
+
+<img src="https://drive.google.com/uc?export=view&id=1qpp9PGn7bdDzckFkBExXlkWtocDYCyN0" width='400px'/>
 
 ##  🧑🏻‍💻 Current work
 - Social Grapher
