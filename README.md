@@ -18,6 +18,13 @@ After several years in other fields of software, I decided to pursue a career in
 
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aalban3&repo=social-network-graph)](https://github.com/aalban3/social-network-graph)
+
+## ☎️ Connect
+
+LinkedIn: [alan-alban](https://linkedin.com/in/alan-alban)
+Facebook: [alan-alban](https://facebook.com/alan-alban)
+Personal Site: [alan-alban.com](https://alan-alban.com)
+
 <!--
 **aalban3/aalban3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
