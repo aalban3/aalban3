@@ -10,6 +10,12 @@ After several years in other fields of software, I decided to pursue a career in
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aalban3&langs_count=8)
 
+##  🧑🏻‍💻 Recent work
+- Social Grapher
+  - Currently working on implementing Login/SignUp
+  - Web Sockets so people can interact 
+  - Better visualization of the graphs
+ [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aalban3&repo=social-network-graph)](https://github.com/aalban3/social-network-graph)
 <!--
 **aalban3/aalban3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
