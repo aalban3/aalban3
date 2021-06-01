@@ -4,7 +4,9 @@
 <img alt="AWS" src="https://img.shields.io/badge/Cloud-AWS-dodgerblue?style=for-the-badge&logo=amazon&logoColor=white"/> <img alt="Github" src="https://img.shields.io/badge/Tools-GitHub-dodgerblue?style=for-the-badge&logo=github&logoColor=white"/> <img alt="Expo" src="https://img.shields.io/badge/Tools-Expo-dodgerblue?style=for-the-badge&logo=expo&logoColor=white"/>
 ## Hello, I'm Alan 👋 
 
-Welcome to my Github page. This is where you can find all my work.
+I'm a software engineer based in Brooklyn, NY. I was born and raised in Ecuador, where I learned how to code in high school (with Pascal).  I'm an Electrical Engineer by trade, and have worked in several areas of sales engineering including cloud, automation and databases. i have also worked as a developer/Architect in Fintech. 
+
+After several years in other fields of software, I decided to pursue a career in Software development. I completed a 17-week Immersive Program at FullStack Academy. I became profficient in Javascript, HTML, CSS, React, Node/Express, PosgreSQL. Beyond that, I have experience deploying applicatons on AWS, building APIs with GraphQL and even some Django experience. 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aalban3&langs_count=8)
 
