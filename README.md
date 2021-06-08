@@ -31,7 +31,7 @@ Visit the repo for Usage instructions: [Jade Finance](https://github.com/FSA-Tea
 - Revista Educaciuon
   - Started Building a website for my dad's business
   - Working on integrating Sequelize with Typescript
-  - React components design
+  - INtegrating GraphQL/Apollo with Typescript
 
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aalban3&repo=revista-educacion)](https://github.com/aalban3/revista-educacion)
