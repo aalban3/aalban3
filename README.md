@@ -34,7 +34,7 @@ Visit the repo for Usage instructions: [Jade Finance](https://github.com/FSA-Tea
   - React components design
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aalban3&repo=social-network-graph)](https://github.com/aalban3/revista-educacion)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aalban3&repo=revista-educacion)](https://github.com/aalban3/revista-educacion)
 
 ## ☎️ Connect With Me
 
