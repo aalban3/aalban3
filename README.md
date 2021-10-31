@@ -20,21 +20,16 @@ Visit the repo for Usage instructions: [Jade Finance](https://github.com/FSA-Tea
 <img src="https://drive.google.com/uc?export=view&id=1bHqHhwDkA2yzF2ndqicYpTV2iSXFAI-F" width='150px'/>
 
 ##  🧑🏻‍💻 Current work
-- Social Grapher
-  - Currently working on implementing Login/SignUp
-  - Web Sockets so people can interact 
-  - Better visualization of the graphs
+
+- Revista Educaciuon (October 2021)
+  - Setup API using graphql and express
+  - Setup cognito user pool for eadier user signIn and signUp
+  - Setup front end using react with Typescript
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aalban3&repo=social-network-graph)](https://github.com/aalban3/social-network-graph)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aalban3&repo=revista-educacion)](https://github.com/aalban3/educacion-web)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aalban3&repo=revista-educacion)](https://github.com/aalban3/educacion-api)
 
-- Revista Educaciuon
-  - Started Building a website for my dad's business
-  - Working on integrating Sequelize with Typescript
-  - INtegrating GraphQL/Apollo with Typescript
-
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aalban3&repo=revista-educacion)](https://github.com/aalban3/revista-educacion)
 
 ## ☎️ Connect With Me
 
