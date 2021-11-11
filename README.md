@@ -21,10 +21,9 @@ Visit the repo for Usage instructions: [Jade Finance](https://github.com/FSA-Tea
 
 ##  🧑🏻‍💻 Current work
 
-- Revista Educaciuon (October 2021)
-  - Setup API using graphql and express
-  - Setup cognito user pool for eadier user signIn and signUp
-  - Setup front end using react with Typescript
+- Revista Educaciuon (November 2021)
+  - Integrated Kontent.ai to application
+  - Added graphql resolvers for kontent.ai data
 
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aalban3&repo=revista-educacion)](https://github.com/aalban3/educacion-web.git)
