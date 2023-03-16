@@ -8,7 +8,7 @@ I'm a software engineer based in Brooklyn, NY. I was born and raised in Ecuador,
 
 After several years in other fields of software, I decided to pursue a career in Software development. I completed a 17-week Immersive Program at FullStack Academy. I became profficient in Javascript, HTML, CSS, React, Node/Express, PostgreSQL. Beyond that, I have experience deploying applicatons on AWS, building APIs with GraphQL and even some Django experience. 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aalban3&orgs=team-alabra&hide=html,css)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aalban3?orgs=team-alabra&hide=html,css)
 
 ## 📱 I have an app on the App store!
 Jade Finance - a project I worked on with 3 others FullStack Academy colleagues. Jade is a personal finance app with a fun social media component. 
